@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version         0.0.2
+// @version         0.0.3
 // @name            Reddit2Lurrker
 // @namespace       https://github.com/AccountName/ProjectNameTODO
 // @description     Redirect reddit.com to lurrker.com
@@ -9,8 +9,8 @@
 // @match           *://*.reddit.com/*
 // @run-at          document-start
 // @grant           none
-// @homepageURL     https://github.com/AccountName/ProjectNameTODO
-// @supportURL      https://github.com/AccountName/ProjectNameTODO/wiki
+// @homepageURL     https://github.com/dstojakovic/Reddit2Lurrker
+// @supportURL      https://github.com/dstojakovic/Reddit2Lurrker/wiki
 // @updateURL       https://github.com/dstojakovic/Reddit2Lurrker/blob/master/Reddit2Lurrker/reddit2lurrker.user.js
 // @downloadURL     https://github.com/dstojakovic/Reddit2Lurrker/blob/master/Reddit2Lurrker/reddit2lurrker.user.js
 // @contributionURL https://www.paypal.com/cgi-bin/TODO
