@@ -1,7 +1,7 @@
 // ==UserScript==
-// @version         0.0.3
+// @version         0.0.4
 // @name            Reddit2Lurrker
-// @namespace       https://github.com/AccountName/ProjectNameTODO
+// @namespace       https://github.com/dstojakovic/Reddit2Lurrker
 // @description     Redirect reddit.com to lurrker.com
 // @compatible      firefox
 // @compatible      chrome-TODO
