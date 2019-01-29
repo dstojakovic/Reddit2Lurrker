@@ -1,10 +1,10 @@
 // ==UserScript==
-// @version         0.0.5
+// @version         0.0.6
 // @name            Reddit2Lurrker
 // @namespace       https://github.com/dstojakovic/Reddit2Lurrker
 // @description     Redirect reddit.com to lurrker.com
 // @compatible      firefox
-// @compatible      chrome-TODO
+// @compatible      chrome
 // @icon            https://lurrker.com/images/comments.png
 // @match           *://*.reddit.com/*
 // @run-at          document-start
