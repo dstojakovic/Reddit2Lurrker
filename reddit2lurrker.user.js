@@ -11,8 +11,8 @@
 // @grant           none
 // @homepageURL     https://github.com/dstojakovic/Reddit2Lurrker
 // @supportURL      https://github.com/dstojakovic/Reddit2Lurrker/wiki
-// @updateURL       https://github.com/dstojakovic/Reddit2Lurrker/blob/master/Reddit2Lurrker/reddit2lurrker.user.js
-// @downloadURL     https://github.com/dstojakovic/Reddit2Lurrker/blob/master/Reddit2Lurrker/reddit2lurrker.user.js
+// @updateURL       https://github.com/dstojakovic/Reddit2Lurrker/raw/master/reddit2lurrker.user.js
+// @downloadURL     https://github.com/dstojakovic/Reddit2Lurrker/raw/master/reddit2lurrker.user.js
 // @contributionURL https://www.paypal.com/cgi-bin/TODO
 // ==/UserScript==
 
