@@ -1,6 +1,6 @@
 // ==UserScript==
-// @version         0.0.6
-// @name            Reddit2Lurrker
+// @version         0.0.7
+// @name            Reddit2Lurrker_test
 // @namespace       https://github.com/dstojakovic/Reddit2Lurrker
 // @description     Redirect reddit.com to lurrker.com
 // @compatible      firefox
@@ -18,19 +18,7 @@
 
 
 var currentURL = window.document.location.toString();
-var newURL = "";
-
-if(currentURL.includes("//www.reddit")) {
-    newURL = currentURL.replace("//www.reddit","//lurrker");
-    window.document.location.replace(newURL);
-}
-
-if(currentURL.includes("//reddit")) {
-    newURL = currentURL.replace("//reddit","//lurrker");
-    window.document.location.replace(newURL);
-}
-
-if(currentURL.includes("//old.reddit")) {
-    newURL = currentURL.replace("//old.reddit","//lurrker");
-    window.document.location.replace(newURL);
-}
+var re = new RegExp('((www.|old.){0,}reddit.com)');
+var redirectUrl = 'lurrker.com';
+var newUrl = currentURL.replace(re, redirectUrl);
+window.document.location.replace(newUrl);
