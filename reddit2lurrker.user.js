@@ -1,6 +1,6 @@
 // ==UserScript==
-// @version         0.0.7
-// @name            Reddit2Lurrker_test
+// @version         0.0.8
+// @name            Reddit2Lurrker
 // @namespace       https://github.com/dstojakovic/Reddit2Lurrker
 // @description     Redirect reddit.com to lurrker.com
 // @compatible      firefox
